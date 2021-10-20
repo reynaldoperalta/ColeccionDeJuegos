@@ -14,6 +14,7 @@
 		F658BB6A27177A8D007AA703 /* ColeccionDeJuegos.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = F658BB6827177A8D007AA703 /* ColeccionDeJuegos.xcdatamodeld */; };
 		F658BB6C27177A8F007AA703 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F658BB6B27177A8F007AA703 /* Assets.xcassets */; };
 		F658BB6F27177A8F007AA703 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F658BB6D27177A8F007AA703 /* LaunchScreen.storyboard */; };
+		F658BB772717C391007AA703 /* JuegosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F658BB762717C391007AA703 /* JuegosViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		F658BB6B27177A8F007AA703 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F658BB6E27177A8F007AA703 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F658BB7027177A8F007AA703 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F658BB762717C391007AA703 /* JuegosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JuegosViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				F658BB6D27177A8F007AA703 /* LaunchScreen.storyboard */,
 				F658BB7027177A8F007AA703 /* Info.plist */,
 				F658BB6827177A8D007AA703 /* ColeccionDeJuegos.xcdatamodeld */,
+				F658BB762717C391007AA703 /* JuegosViewController.swift */,
 			);
 			path = ColeccionDeJuegos;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F658BB772717C391007AA703 /* JuegosViewController.swift in Sources */,
 				F658BB6427177A8D007AA703 /* ViewController.swift in Sources */,
 				F658BB6027177A8D007AA703 /* AppDelegate.swift in Sources */,
 				F658BB6227177A8D007AA703 /* SceneDelegate.swift in Sources */,
